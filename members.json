@@ -93,5 +93,13 @@
       "linkedin_url": "https://www.linkedin.com/in/abdullah-azzam-272280225/",
       "github_url": "https://github.com/abdulzzm"
     },
+    {
+      "nama": "Miftakhul Hudha",
+      "angkatan": 2020,
+      "jurusan": "Informatika",
+      "avatar_url": "https://res.cloudinary.com/hudha/image/upload/v1636104181/MiftakhulHudha.jpg",
+      "linkedin_url":"https://www.linkedin.com/in/miftakhul-hudha-1134141ba/",
+      "github_url": "https://github.com/Hudha11"
+    },
   ]
 }
